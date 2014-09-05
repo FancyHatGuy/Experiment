@@ -1,0 +1,6 @@
+A list of ideas that I have to experiment and play around with. 
+*Java - The Purge counter. A counter for the Carbyne gametype "The Purge". For getting familiar with Java
+*Java - Binary Knight. A simple sidescrolling platformer game. 
+*KSP - Mission Control. Programmable instructions into probes and rovers.  
+*KSP - Gundam. Humanoid robots. 
+*Java - Carbyne Updater Bot (CUB) Checks a server for update information (release date, upload) and pushes them.
